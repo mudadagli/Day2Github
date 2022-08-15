@@ -8,4 +8,7 @@ public class Day2Githup {
         System.out.println("github i da ogrendim");
         System.out.println("son ekleme");
     }
+    /*
+    6. made olarak uzak depodaki dosyalarimizi guncellemek icin kullnilir
+     */
 }
