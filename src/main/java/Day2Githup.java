@@ -1,6 +1,6 @@
 public class Day2Githup {
     /*
-    1- git init
+    1- git init   son ekleme
      */
 
 
